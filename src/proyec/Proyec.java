@@ -23,8 +23,9 @@ public class Proyec {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here        
-        Shell s = new Shell();
-        s.EJ();
+      Menu m = new Menu();
+      m.SMenu();
+        
     }
 
     
